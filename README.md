@@ -1,6 +1,6 @@
 # 🧑‍🎓 Student Management System (Full Stack)
 
-A simple full-stack CRUD application to manage students — built using **Next.js** for the frontend and **Spring Boot** for the backend. Tailwind CSS is used for UI styling, and MongoDB/PostgreSQL/MySQL (choose based on your setup) is used for storing student data.
+A simple full-stack CRUD application to manage students — built using **Next.js** for the frontend and **Spring Boot** for the backend. Tailwind CSS is used for UI styling, PostgreSQL is used for storing student data.
 
 ---
 
@@ -49,7 +49,6 @@ student-management/
 
 ### 💻 Frontend (Next.js)
 
-```bash
 cd student-management-frontend
 npm install
 npm run dev
