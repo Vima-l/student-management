@@ -4,14 +4,6 @@ A simple full-stack CRUD application to manage students — built using **Next.j
 
 ---
 
-## 📸 Preview
-
-> A beautiful and responsive UI to Add, View, Update, and Delete students.
-
-![App Screenshot](screenshot.png)
-
----
-
 ## 🚀 Features
 
 - ➕ Add a new student (Name, Email, DOB)
